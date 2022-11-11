@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: black;
+  height: 100vh;
+}
+.header {
+  background-color: rgb(0, 0, 0);
+  height: 90px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 60px;
+  box-sizing: border-box;
+  border-bottom: 0.1px solid rgb(255, 174, 0);
+  color: white;
+}
+.header > div {
+  width: 100%;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+}
+.bolita {
+  background-color: brown;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.main a {
+    background-color: aqua;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 50px;
+    color: black;
+    font-weight: bold;
+}
+.main {
+    background-color: rgb(0, 0, 0);
+    height: calc(100% - 90px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.btn-star {
+    background-color: #00FF89 !important;
+}
+.btn-H {
+    background-color: #A0C4FD !important;
+}
+.by {
+    color: grey;
+    font-size: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 60px;
+}
