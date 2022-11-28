@@ -1,0 +1,208 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.centro {
+    background-color: black;
+    height: 100vh; 
+}
+    
+.arriba {
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.buscar {
+   background-color:#F0F2F5;
+   height: 50px;
+   width: 600px; 
+   border-radius: 30px; 
+   display: flex;
+}
+.buscar2 {
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    border-radius: 60px;
+    
+}
+.mensaje {
+    background-color:#F0F2F5;
+    height: 60px;
+   width: 60px; 
+   border-radius: 60px;
+   margin: -5px;
+   
+
+}
+.campana {
+    background-color: #F0F2F5;
+    height: 60px;
+   width: 60px; 
+   border-radius: 60px;
+   margin: -5px;
+
+   
+   
+}
+.perfil {
+   background-color:#F0F2F5;
+   height: 60px;
+   width: 60px; 
+   border-radius: 60px;
+   margin: -5px;
+   
+}
+.caja {
+    background-color: aqua;
+    display: flex;
+    justify-content: end;
+    height: 50px;
+    width: 490px;
+    margin: 5px;
+    padding: 5px;
+}
+.espacio {
+    width: 20px;
+}
+.espacio2 {
+    width: 10px;
+    height: 30px;
+}
+input {
+    background-color: #F0F2F5;
+    margin: 5px;
+    height: 40px;
+    width: 480px;
+    border-radius: 40px;
+    border: none;
+    font-size: 20px; 
+}
+.cuadro {
+    background-color: aqua;
+    height: 700px;
+    display: flex;
+    
+
+}
+.cuadro2 {
+    background-color: blueviolet;
+    height: 600px;
+    width: 410px;
+}
+.cuadro3 {
+    background-color:#dedfe0;
+    height: 600px;
+    width: 600px;
+}
+.cuadro4 {
+    background-color: rgb(75, 250, 0);
+    height: 600px;
+    width: 410px;
+}
+.mitad {
+    background-color:#ffffff;
+    border-radius: 20px;
+    margin: 15px;
+    height: 300px;
+    border-radius: 20px;
+    
+}
+p {
+    font-size: 20px;
+}
+.lineas {
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+}
+.cajita1 {
+    background-color: black;
+    width: 140px;
+    height: 220px;
+    border-radius: 20px;
+}
+.cajita2 {
+    background-color: aqua;
+    width: 140px;
+    height: 220px;
+    border-radius: 20px;
+}
+.cajita3 {
+    background-color: black;
+    width: 140px;
+    height: 220px;
+    border-radius: 20px;
+   
+}
+.cajita4 {
+    background-color: aqua;
+    width: 140px;
+    height: 220px;
+    border-radius: 20px;
+}
+.cajitas {
+    height: 300px;
+    display: flex;
+    margin: 10px ;
+    
+
+}
+.separar {
+    width: 6px;
+}
+.abajo {
+    background-color: #FFFFFF;
+    height: 150px;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 10px;   
+}
+.bolita {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.input1 {
+display: flex;
+}
+.abajo1 {
+    height: 30px;
+    width: 560px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    margin: 0%;
+    
+}
+.linea {
+    margin: 10px;
+   
+}
+.color {
+    background-color:#F0F2F5;
+    width: 150px;
+    height: 40px;
+    
+}
+.color1 {
+    background-color: #F0F2F5;
+    width: 150px;
+    height: 40px;
+}
+.color2 {
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    background-color:#F0F2F5;
+}
+.letras {
+    text-align: center;
+    padding: 5%;
+    margin: 0%;
+    background-color: #F0F2F5;
+}

@@ -1,0 +1,40 @@
+.main {
+    background-color: rgb(0, 0, 0);
+    height: calc(100% - 90px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.main a,.btn-atras a {
+    background-color: rgb(255, 0, 0);
+    
+    padding: 10px 25px;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.btn-atras {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+}
+.btn-atras a {
+    color: white;
+}
+.btn-lento{
+    margin-bottom: 20px;
+    background-color: #00FF89 !important;
+}
+.btn-normal {
+    margin-bottom: 20px;
+    background-color: #FFB061 !important;
+}
+.btn-rapido {
+    margin-bottom: 20px;
+    background-color: #FE807B !important;
+}

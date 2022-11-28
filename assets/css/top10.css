@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main1 {
+    background-color: rgb(0, 0, 0);
+    height: calc(100% - 90px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.lista {
+    background-color: white;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 40px;
+    border-radius: 20px;
+ 
+}   
+   
+.linea {
+    height: 400px;
+    width: 200px;
+      
+}
+li {
+      width: 100%;  
+      margin-bottom: 20px;
+}
+.style {
+    display: flex;
+    justify-content: space-between;
+}

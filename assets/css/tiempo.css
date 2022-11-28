@@ -1,0 +1,92 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.barras {
+    background-color: white;
+    width: 800px;
+    height: 10px;
+    border-radius: 10px;
+}
+.puntajes {
+
+}
+p {
+    text-align: center;
+    font-size: 20px;
+}
+.btn-salir {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+}
+.btn-salir a 
+{
+    color: white;
+}
+.main a,.btn-salir a {
+    background-color: rgb(255, 0, 0);
+    
+    padding: 10px 25px;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;}
+
+.dentro {
+    background-color: ;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    
+    
+    
+}
+.caja {
+    align-items: flex-end;
+    background-color: ;
+    width: 250px;
+    height: 500px;
+    margin: 3px;
+    
+    
+}
+.cajas {
+    background-color:;
+    align-items: flex-end;
+    width: 250px;
+    height: 500px;
+    margin: 3px;
+}
+.caja2 {
+    background-color: #FF4B4C; 
+    width: 250px;
+    height: 250px;
+    border-radius: 100% 0 0 0;
+    margin: 4px; 
+    
+}
+.caja3 {
+     background-color:#EAD82E; 
+    width: 250px;
+    height: 250px;
+    border-radius: 0 0 0 100%;
+    margin: 4px;
+}
+
+.caja6 {
+     background-color: #0FAD63; 
+    width: 250px;
+    height: 250px;
+    border-radius: 0 100% 0 0;
+    margin: 4px;
+}
+.caja5 {
+     background-color:#4B69FF; 
+    width: 250px;
+    height: 250px;
+    border-radius: 0 0 100% 0;
+    margin: 4px;
+}
